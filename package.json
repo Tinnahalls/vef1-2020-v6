@@ -1,0 +1,23 @@
+{
+  "name": "vef1-2020-v6",
+  "version": "1.0.0",
+  "description": "## Lýsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinnahalls/vef1-2020-v6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinnahalls/vef1-2020-v6/issues"
+  },
+  "homepage": "https://github.com/Tinnahalls/vef1-2020-v6#readme",
+  "dependencies": {
+    "browser": "^0.2.6",
+    "sync": "^0.2.5"
+  }
+}
