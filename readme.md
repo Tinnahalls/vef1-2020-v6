@@ -4,7 +4,7 @@
 
 Nú er eigandi _Bókabúðarinnar_ kátur með útlitið en hefur áhyggjur af viðhaldi á vefnum.
 
-Loka verkefnið (í bili) er að setja upp tól og koma verkefninu fyrir á GitHub fyrir þá vefforritara sem taka við í framtíðinni.tetta er bteytin
+Loka verkefnið (í bili) er að setja upp tól og koma verkefninu fyrir á GitHub fyrir þá vefforritara sem taka við í framtíðinni. tek ut breyting 
 
 
 ## Útlit
